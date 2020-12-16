@@ -16,6 +16,8 @@ Typical time between recharging the radios should be about eight days.
 
 This project is is currently in beta-testing - if you have questions please [join our discussion forum](https://meshtastic.discourse.group/).
 
+If you speak Italian here is the telegram channel http://t.me/meshtastic_italia
+
 This software is 100% open source and developed by a group of hobbyist experimenters. No warranty is provided, if you'd like to improve it - we'd love your help. Please post in the chat.
 
 ## Supported hardware
