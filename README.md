@@ -22,6 +22,8 @@ This software is 100% open source and developed by a group of hobbyist experimen
 
 We currently support three models of radios.
 
+- ESP32 and LoRa module (Work in progress) (hopefully any esp board and LoRa module base on "TTGO LORA32" pinout)
+
 - TTGO T-Beam (usually the recommended choice)
   - [T-Beam V1.1 w/ NEO-6M - special Meshtastic version](https://www.aliexpress.com/item/4001178678568.html) (Includes built-in OLED display and they have **preinstalled** the meshtastic software)
   - [T-Beam V1.1 w/ NEO-M8N](https://www.aliexpress.com/item/33047631119.html) (slightly better GPS)
