@@ -16,11 +16,15 @@ Typical time between recharging the radios should be about eight days.
 
 This project is is currently in beta-testing - if you have questions please [join our discussion forum](https://meshtastic.discourse.group/).
 
+If you speak Italian here is the telegram channel http://t.me/meshtastic_italia
+
 This software is 100% open source and developed by a group of hobbyist experimenters. No warranty is provided, if you'd like to improve it - we'd love your help. Please post in the chat.
 
 ## Supported hardware
 
 We currently support three models of radios.
+
+- ESP32 and LoRa module (Work in progress) (hopefully any esp board and LoRa module base on "TTGO LORA32" pinout)
 
 - TTGO T-Beam (usually the recommended choice)
   - [T-Beam V1.1 w/ NEO-6M - special Meshtastic version](https://www.aliexpress.com/item/4001178678568.html) (Includes built-in OLED display and they have **preinstalled** the meshtastic software)
